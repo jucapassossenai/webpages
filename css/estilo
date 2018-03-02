@@ -1,0 +1,26 @@
+body{
+	background-color: yellow;
+
+}
+
+.container{
+	margin: 0 auto;
+
+	width: 960px;
+}
+
+.place{
+	border-color: #4169e1;
+	margin-bottom: 20px;
+    color: #AAA;
+    font-family: 
+    padding: 10px;
+    background-color: white
+}
+
+.place h2{
+	border-bottom: 1px dashed #7e9f70;
+	margin: 
+}
+
+
